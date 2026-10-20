@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.46",
-  "versionCode": 139,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.46/Nexo-v3.7.46-release.apk",
-  "apkSha256": "96f42e6b1e4fa2c77b2aae74f7bbc50d7525219ce58ce0d42928abfc57fb1005",
-  "apkSize": 32854249,
+  "versionName": "3.7.47",
+  "versionCode": 140,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.47/Nexo-v3.7.47-release.apk",
+  "apkSha256": "0b03b36d8b6e24b937a35263c36c5dc8e382ba5d476f07fe9153863ca6a4cc75",
+  "apkSize": 32854501,
   "notes": "Mejoras y correcciones de Nexo."
 }
