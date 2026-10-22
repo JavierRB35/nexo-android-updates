@@ -1,10 +1,10 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.49",
-  "versionCode": 142,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.49/Nexo-v3.7.49-release.apk",
-  "apkSha256": "86e3ee72bea9d9f0b4ddf0375545f8ea1ddc87e499e545a48b3473621525b9c4",
-  "apkSize": 32854865,
-  "notes": "Mejoras y correcciones de Nexo."
+  "versionName": "3.7.50",
+  "versionCode": 143,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.50/Nexo-v3.7.50-release.apk",
+  "apkSha256": "4735dabd43ccc6de50307e7fdea11681992304fe4766b7cf82cdd5aa04f86efe",
+  "apkSize": 33388057,
+  "notes": "## Nexo 3.7.50 — Chat integrado y diseño renovado\n\n- Connect y Chat integrados en una sola aplicación. Uso local sin registro; cuenta al conversar o compartir.\n- Personas identificadas por su nombre elegido, invitaciones y transferencia desde Connect.\n- Chat con burbujas y acuses de lectura con iniciales, siguiendo Nexo Familia.\n- Historial de chat incluido en la copia de seguridad protegida por contraseña.\n- Inicio, calendario, notas y herramientas con un sistema visual común y controles más legibles.\n- Chat sustituye a Buscar en la barra inferior; búsqueda disponible en Inicio y cabecera.\n- Inbox muestra el número de elementos pendientes y se oculta cuando está vacío.\n- Conserva Argumento / sinopsis y los datos existentes de la versión 3.7.49."
 }
