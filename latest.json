@@ -6,7 +6,7 @@
   "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.51/Nexo-v3.7.51-release.apk",
   "apkSha256": "d5d5dbc5eaecdc86b796c0639192deabf8f514129f5b4e40a0ea410dd400f4aa",
   "apkSize": 33404441,
-  "notes": "## Nexo 3.7.51 — Actualizaciones críticas y opcionales\n- El aviso de nueva versión y las notificaciones identifican explícitamente la importancia de la actualización.\n- Las opcionales conservan «Actualizar» y «Más tarde».\n- Las críticas explican el motivo, bloquean la continuación y ofrecen «Actualizar ahora» o «Salir de Nexo». La instalación sigue requiriendo confirmación de Android.\n- `latest.json` recibe `critical` y `criticalReason` desde la política versionada de la APK firmada; se prohíbe reclasificar la misma versión sin incrementar versionCode.\n- Manifiestos anteriores compatibles y tratados como opcionales; se mantienen SHA-256, firma oficial, SQLite 33 y el entorno AndroidIDE.\n- La 3.7.51 se distribuye como **opcional**. Solo los clientes con esta funcionalidad pueden aplicar la ",
+  "notes": "Ahora Nexo te indicará si una nueva versión es opcional o necesaria para seguir utilizando la aplicación. Esta actualización es opcional: puedes instalarla ahora o más adelante.",
   "critical": false,
   "criticalReason": ""
 }
