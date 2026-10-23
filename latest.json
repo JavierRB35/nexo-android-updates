@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.62",
-  "versionCode": 155,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.62/Nexo-v3.7.62-release.apk",
-  "apkSha256": "5f472c8e88a3c996350018137b98e9b8fe49b62b36e28e1731ea79e96a18745b",
+  "versionName": "3.7.63",
+  "versionCode": 156,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.63/Nexo-v3.7.63-release.apk",
+  "apkSha256": "e79d49bfb7a272b7b23ba10aee9bbc7352b843b7afe1931e7c73d3ccc9580f14",
   "apkSize": 33415592,
-  "notes": "Agenda de HOY y CALENDARIO: los eventos de todo el día permanecen fijados sobre el horario mientras te desplazas; la primera cita con hora se muestra justo debajo. Si hay muchas actividades de todo el día, la franja se desplaza para consultarlas todas. Se conserva la ficha de evento y la edición por gestos. Actualización opcional.",
+  "notes": "Nexo Connect: corregida la orientación de las fotografías de perfil al seleccionarlas de la galería. Se respeta el giro y reflejo EXIF antes de recortar y comprimir el avatar, conservando el cifrado y sincronización del perfil. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
