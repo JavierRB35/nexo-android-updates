@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.56",
-  "versionCode": 149,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.56/Nexo-v3.7.56-release.apk",
-  "apkSha256": "df260e410e446305c5d8a5cd79e580356ddad7ae344a82f66080293963ead387",
+  "versionName": "3.7.57",
+  "versionCode": 150,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.57/Nexo-v3.7.57-release.apk",
+  "apkSha256": "5013d2bba9a36de93e4e0af2772ffacae1ac90be6c3507cde3e12c88c3619322",
   "apkSize": 33405149,
-  "notes": "Nexo Connect: Mi perfil con nombre y foto, contactos con avatar y alias privado, vinculación desde Ajustes y navegación más fluida en Chat. El perfil solo se comparte cifrado con contactos verificados. Actualización opcional.",
+  "notes": "Nexo Connect: borrar una conversación deslizando a la izquierda o manteniéndola pulsada; eliminar uno o varios mensajes para mí, con confirmación, papelera roja y aviso. No se eliminan contactos ni mensajes del otro teléfono. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
