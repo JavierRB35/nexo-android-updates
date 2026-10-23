@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.52",
-  "versionCode": 145,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.52/Nexo-v3.7.52-release.apk",
-  "apkSha256": "1f73780847f93ab17fcb4050a9bc492b19850e35a365d4a53bbaf8629a3a634b",
-  "apkSize": 33404325,
-  "notes": "Inicio más sencillo: eliminamos el bloque «Accesos directos» para que veas antes «Próximamente». Notas, Listas, Documentos y Medicación siguen en Herramientas. Los avisos de nuevas versiones son más claros. Es una actualización opcional.",
+  "versionName": "3.7.53",
+  "versionCode": 146,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.53/Nexo-v3.7.53-release.apk",
+  "apkSha256": "88711e8ec0b2a0e1e1b4e1a9c580a47d00ff54ec6030418e335e98394a275ccb",
+  "apkSize": 33405009,
+  "notes": "Ahora puedes abrir Google Maps directamente desde una cita, sin entrar en Editar: toca Maps en la barra inferior o el acceso de la ficha. También hemos corregido la apertura de ubicaciones. Es una actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
