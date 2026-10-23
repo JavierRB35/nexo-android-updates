@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.55",
-  "versionCode": 148,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.55/Nexo-v3.7.55-release.apk",
-  "apkSha256": "eff5b31ed2c0524d041a2146904e8be6bcacea19a3bfb31af1fe085b99fc04ec",
-  "apkSize": 33405009,
-  "notes": "Conectar con personas ahora es más sencillo: un único código de seguridad, pantallas renovadas y recuperación de contactos ya vinculados. Mantiene la verificación de identidad y tus datos. Actualización opcional.",
+  "versionName": "3.7.56",
+  "versionCode": 149,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.56/Nexo-v3.7.56-release.apk",
+  "apkSha256": "df260e410e446305c5d8a5cd79e580356ddad7ae344a82f66080293963ead387",
+  "apkSize": 33405149,
+  "notes": "Nexo Connect: Mi perfil con nombre y foto, contactos con avatar y alias privado, vinculación desde Ajustes y navegación más fluida en Chat. El perfil solo se comparte cifrado con contactos verificados. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
