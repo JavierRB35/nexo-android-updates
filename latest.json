@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.54",
-  "versionCode": 147,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.54/Nexo-v3.7.54-release.apk",
-  "apkSha256": "30cb699ceb39588ee4ed76e8b9e98d1b907baad875b19221b0e624a47184499d",
+  "versionName": "3.7.55",
+  "versionCode": 148,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.55/Nexo-v3.7.55-release.apk",
+  "apkSha256": "eff5b31ed2c0524d041a2146904e8be6bcacea19a3bfb31af1fe085b99fc04ec",
   "apkSize": 33405009,
-  "notes": "Connect permite retomar el alta del teléfono cuando quedó pendiente y volver a verificar el correo sin borrar la sesión. Los avisos indican cuándo debes esperar para pedir otro código. No cambian tus datos. Actualización opcional.",
+  "notes": "Conectar con personas ahora es más sencillo: un único código de seguridad, pantallas renovadas y recuperación de contactos ya vinculados. Mantiene la verificación de identidad y tus datos. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
