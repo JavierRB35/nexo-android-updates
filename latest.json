@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.61",
-  "versionCode": 154,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.61/Nexo-v3.7.61-release.apk",
-  "apkSha256": "15ca9a979a03bd519998c42ebecf5aaa6295ddb51c7e009da959ecf25b3d8f82",
-  "apkSize": 33415208,
-  "notes": "En Hoy y Calendario, la agenda se posiciona automáticamente en la primera cita del día. Chat muestra los mensajes sin leer en la barra inferior y permite activar las notificaciones Android; mejorada la comprobación de mensajes recibidos. Actualización opcional.",
+  "versionName": "3.7.62",
+  "versionCode": 155,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.62/Nexo-v3.7.62-release.apk",
+  "apkSha256": "5f472c8e88a3c996350018137b98e9b8fe49b62b36e28e1731ea79e96a18745b",
+  "apkSize": 33415592,
+  "notes": "Agenda de HOY y CALENDARIO: los eventos de todo el día permanecen fijados sobre el horario mientras te desplazas; la primera cita con hora se muestra justo debajo. Si hay muchas actividades de todo el día, la franja se desplaza para consultarlas todas. Se conserva la ficha de evento y la edición por gestos. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
