@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.66",
-  "versionCode": 159,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.66/Nexo-v3.7.66-release.apk",
-  "apkSha256": "4b4b0478d1ff64f7bd840ea383ac892f86d28c7b89e1bff7e62753791a9031f2",
-  "apkSize": 33424553,
-  "notes": "Nexo Connect: configuración simplificada por identidad, vinculación y personas. Acceso directo a Mis personas, sin pantalla intermedia ni botón de compartir en Ajustes. Chat e Inbox siguen accesibles y las fichas se comparten desde su propia pantalla. Actualización opcional.",
+  "versionName": "3.7.67",
+  "versionCode": 160,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.67/Nexo-v3.7.67-release.apk",
+  "apkSha256": "d7a4bc45d58337c1e7709a4e25312773aa00b6fadaa5adfbb8e539dee188c6d8",
+  "apkSize": 33428721,
+  "notes": "Acerca de Nexo: catálogo completo de 26 módulos y 62 funciones, con Nexo Connect, organización, salud, vehículos y seguridad. Se incorpora una comprobación de catálogo en cada actualización. Desarrollo: Carlos Javier Ruiz Bermúdez · 2026. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
