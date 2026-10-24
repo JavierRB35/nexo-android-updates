@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.69",
-  "versionCode": 162,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.69/Nexo-v3.7.69-release.apk",
-  "apkSha256": "fef74c0b8b0edfae0d065025ecf350b03737b77fbf4e58ea41f01a5ced97b25c",
-  "apkSize": 33429601,
-  "notes": "Dictado más cómodo: el micrófono de Captura rápida aparece arriba al crear citas y sigue accesible con el teclado abierto. En Notas, Cuaderno, Frases, Medicación, Lugares y Documentos también está en la cabecera. El texto escrito se conserva al añadir voz. Actualización opcional.",
+  "versionName": "3.7.70",
+  "versionCode": 163,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.70/Nexo-v3.7.70-release.apk",
+  "apkSha256": "171eb7ae26a84342953aa182881ba9d07324ae8c8150ccc4b7ca0695c70aa81b",
+  "apkSize": 33430013,
+  "notes": "Nuevo botón Compartir Nexo en Ajustes → General: abre el menú de compartir Android con un enlace permanente a la última versión disponible para instalar Nexo. No envía datos personales, contenido de Nexo ni contactos y no establece vinculaciones Nexo Connect. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
