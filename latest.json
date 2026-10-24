@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.65",
-  "versionCode": 158,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.65/Nexo-v3.7.65-release.apk",
-  "apkSha256": "746913ceb265b0f09e19a0b2896a0381e4316fbaf8753e204d7495e21d3d8969",
-  "apkSize": 33440625,
-  "notes": "Mis vehículos: mantenimiento sencillo para uno o varios coches, operaciones habituales por casillas, operaciones personalizadas reutilizables, historial, facturas y revisiones por fecha o kilómetros. Actualización opcional; no activa avisos Android automáticos.",
+  "versionName": "3.7.66",
+  "versionCode": 159,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.66/Nexo-v3.7.66-release.apk",
+  "apkSha256": "4b4b0478d1ff64f7bd840ea383ac892f86d28c7b89e1bff7e62753791a9031f2",
+  "apkSize": 33424553,
+  "notes": "Nexo Connect: configuración simplificada por identidad, vinculación y personas. Acceso directo a Mis personas, sin pantalla intermedia ni botón de compartir en Ajustes. Chat e Inbox siguen accesibles y las fichas se comparten desde su propia pantalla. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
