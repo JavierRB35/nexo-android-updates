@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.67",
-  "versionCode": 160,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.67/Nexo-v3.7.67-release.apk",
-  "apkSha256": "d7a4bc45d58337c1e7709a4e25312773aa00b6fadaa5adfbb8e539dee188c6d8",
-  "apkSize": 33428721,
-  "notes": "Acerca de Nexo: catálogo completo de 26 módulos y 62 funciones, con Nexo Connect, organización, salud, vehículos y seguridad. Se incorpora una comprobación de catálogo en cada actualización. Desarrollo: Carlos Javier Ruiz Bermúdez · 2026. Actualización opcional.",
+  "versionName": "3.7.68",
+  "versionCode": 161,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.68/Nexo-v3.7.68-release.apk",
+  "apkSha256": "ed2994690a9847d6f93503ca96b0f255843290d721b4cd6f65cf7a514cd52e0a",
+  "apkSize": 33429257,
+  "notes": "Acerca de Nexo: las novedades de cada versión aparecen dentro de la aplicación y coinciden con las publicadas en Updates. Textos de privacidad más claros sobre datos locales, Nexo Connect, voz y servicios externos. Se conserva el catálogo de 26 módulos y 62 funciones. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
