@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.63",
-  "versionCode": 156,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.63/Nexo-v3.7.63-release.apk",
-  "apkSha256": "e79d49bfb7a272b7b23ba10aee9bbc7352b843b7afe1931e7c73d3ccc9580f14",
-  "apkSize": 33415592,
-  "notes": "Nexo Connect: corregida la orientación de las fotografías de perfil al seleccionarlas de la galería. Se respeta el giro y reflejo EXIF antes de recortar y comprimir el avatar, conservando el cifrado y sincronización del perfil. Actualización opcional.",
+  "versionName": "3.7.64",
+  "versionCode": 157,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.64/Nexo-v3.7.64-release.apk",
+  "apkSha256": "5f5962d80dfdfab4ebb5bdeed766dd373ccd2716336297bb0ee9475275d707f8",
+  "apkSize": 33431976,
+  "notes": "Nexo Connect: ahora puedes desvincular personas desde la lista de contactos. Se cancela el intercambio de nuevos mensajes y fichas, y se conservan los datos que ya estaban guardados en cada móvil. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
