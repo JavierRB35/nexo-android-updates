@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.74",
-  "versionCode": 167,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.74/Nexo-v3.7.74-release.apk",
-  "apkSha256": "77e30ff3cfbc087524c042ce83df8344ae27c1ff9ff9053e5e373a4d4e00c95f",
-  "apkSize": 33437132,
-  "notes": "Mejora visual de los temas de Nexo: mayor contraste de iconos en Vivo y Mediterráneo, superficies coherentes en modo Noche y rejilla horaria ajustada para pantallas pequeñas. Selección en Ajustes → Apariencia. Sin cambios en funciones, gestos, datos ni avisos. Actualización opcional.",
+  "versionName": "3.7.75",
+  "versionCode": 168,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.75/Nexo-v3.7.75-release.apk",
+  "apkSha256": "9040156bfa464e0e68dde8870aa802f904661a32c8cdec0fef0060e3e2b04e73",
+  "apkSize": 33437872,
+  "notes": "Interfaz más alegre en Vivo, Mediterráneo y Noche: tarjetas con colores suaves, cabecera multicolor discreta y mejoras de legibilidad en calendario, buscador y agenda de Noche. Los tres temas se eligen en Ajustes → Apariencia. Funciones, gestos y datos sin cambios. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
