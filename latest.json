@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.71",
-  "versionCode": 164,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.71/Nexo-v3.7.71-release.apk",
-  "apkSha256": "87b9b2e0ca5cc04c114852b70310661fc92f051d4259bfac2781f48d804e83fa",
-  "apkSize": 33430469,
-  "notes": "Calendario más cómodo: al abrirlo aparece primero el mes actual y el día de hoy. La agenda horaria se desplaza de forma independiente y muestra directamente la primera cita, con los eventos de todo el día fijos. Al consultar una cita y volver, se conserva la posición. Actualización opcional.",
+  "versionName": "3.7.72",
+  "versionCode": 165,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.72/Nexo-v3.7.72-release.apk",
+  "apkSha256": "276239effaa9e1c0e0b2d4935dec195c4b07f15575241fc2791db7ff8d9e66c5",
+  "apkSize": 33431633,
+  "notes": "Ahora puedes mantener pulsada una hora vacía de la agenda para preparar una nueva cita con la fecha y el horario ya seleccionados. Las citas existentes siguen pudiendo arrastrarse y ajustarse como antes. No se guarda nada hasta que lo confirmes. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
