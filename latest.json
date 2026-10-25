@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.72",
-  "versionCode": 165,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.72/Nexo-v3.7.72-release.apk",
-  "apkSha256": "276239effaa9e1c0e0b2d4935dec195c4b07f15575241fc2791db7ff8d9e66c5",
-  "apkSize": 33431633,
-  "notes": "Ahora puedes mantener pulsada una hora vacía de la agenda para preparar una nueva cita con la fecha y el horario ya seleccionados. Las citas existentes siguen pudiendo arrastrarse y ajustarse como antes. No se guarda nada hasta que lo confirmes. Actualización opcional.",
+  "versionName": "3.7.73",
+  "versionCode": 166,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.73/Nexo-v3.7.73-release.apk",
+  "apkSha256": "526b4b7e5cbe287319e3569732a1be57ba3a275a6783d407db68889ba45466ab",
+  "apkSize": 33436460,
+  "notes": "Nexo estrena tres temas visuales seleccionables en Ajustes → Apariencia: Vivo, Mediterráneo y Noche. Cambia los colores al instante y recuerda tu elección en este teléfono. Las citas, gestos, categorías, avisos y demás funciones siguen igual. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
