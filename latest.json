@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.75",
-  "versionCode": 168,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.75/Nexo-v3.7.75-release.apk",
-  "apkSha256": "9040156bfa464e0e68dde8870aa802f904661a32c8cdec0fef0060e3e2b04e73",
-  "apkSize": 33437872,
-  "notes": "Interfaz más alegre en Vivo, Mediterráneo y Noche: tarjetas con colores suaves, cabecera multicolor discreta y mejoras de legibilidad en calendario, buscador y agenda de Noche. Los tres temas se eligen en Ajustes → Apariencia. Funciones, gestos y datos sin cambios. Actualización opcional.",
+  "versionName": "3.7.76",
+  "versionCode": 169,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.76/Nexo-v3.7.76-release.apk",
+  "apkSha256": "c8e9d289812fb92fbddb841c50f78fe85620ffa1f4d847aec9670457aa81b806",
+  "apkSize": 33438952,
+  "notes": "La agenda diaria de hoy muestra una línea con la hora actual y se abre dejando 45 minutos anteriores visibles. La línea avanza con el reloj sin mover el calendario cuando lo desplazas. En otros días no aparece. Se mantienen los gestos para crear, mover y ajustar citas. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
