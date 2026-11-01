@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.78",
-  "versionCode": 171,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.78/Nexo-v3.7.78-release.apk",
-  "apkSha256": "250da400d5eeb05dd3892518cb4aa1495575ef6efbb301b8c4a6f0e92dfa60fc",
-  "apkSize": 33455764,
-  "notes": "Corrige la pantalla de Copia de seguridad en Android: el texto vuelve a ocupar el ancho disponible y los botones aparecen debajo, sin desbordarse. Se mantiene la copia automática en un único archivo .nexo, la verificación del archivo y el cifrado del chat. Actualización opcional.",
+  "versionName": "3.7.79",
+  "versionCode": 172,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.79/Nexo-v3.7.79-release.apk",
+  "apkSha256": "b99b97162202fd4faea46e164c4644a21dba8f15e0c4958871239e7d8a98f3e7",
+  "apkSize": 33499441,
+  "notes": "Incorpora el logotipo transparente de Carlos Javier Ruiz Bermúdez en la pantalla de inicio como firma discreta del autor. Se mantienen las funciones de Nexo. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
