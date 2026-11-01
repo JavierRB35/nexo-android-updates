@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.77",
-  "versionCode": 170,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.77/Nexo-v3.7.77-release.apk",
-  "apkSha256": "c8495e9f3b597fbefb5e02497f34d4691fe27c1d16b37cc5d6fcd60fb7364f44",
-  "apkSize": 33455772,
-  "notes": "Nexo incorpora una copia automática en un único archivo .nexo elegido por ti. Al abrir la aplicación solo lo actualiza si hay cambios y comprueba la integridad del archivo guardado. El chat se cifra con una contraseña protegida en el teléfono. Las grabaciones se exportan por separado. Actualización opcional.",
+  "versionName": "3.7.78",
+  "versionCode": 171,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.78/Nexo-v3.7.78-release.apk",
+  "apkSha256": "250da400d5eeb05dd3892518cb4aa1495575ef6efbb301b8c4a6f0e92dfa60fc",
+  "apkSize": 33455764,
+  "notes": "Corrige la pantalla de Copia de seguridad en Android: el texto vuelve a ocupar el ancho disponible y los botones aparecen debajo, sin desbordarse. Se mantiene la copia automática en un único archivo .nexo, la verificación del archivo y el cifrado del chat. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
