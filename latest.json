@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.81",
-  "versionCode": 174,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.81/Nexo-v3.7.81-release.apk",
-  "apkSha256": "dadb949a1167ff3f7720579f43d958f69f552ccb03eb212a03d539fe5b43046f",
-  "apkSize": 33501389,
-  "notes": "Las fichas de citas muestran fecha, horario, motivo, estado y avisos de un vistazo. Editar está arriba y Maps y Vínculos ocupan menos espacio. También se aplica a citas repetidas. Tus datos se conservan. Actualización opcional.",
+  "versionName": "3.7.82",
+  "versionCode": 175,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.82/Nexo-v3.7.82-release.apk",
+  "apkSha256": "bea79e64a9f6ca62c1cf14307a1155dffbea9b4906680034355f4e5bcb3b823c",
+  "apkSize": 33517877,
+  "notes": "El calendario muestra completas las siete columnas en pantallas pequeñas. Los títulos de nuevas citas conservan mejor la acción que dictas, como cancelar una reunión o pedir un presupuesto. Tus citas guardadas no cambian. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
