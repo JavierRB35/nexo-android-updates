@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.80",
-  "versionCode": 173,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.80/Nexo-v3.7.80-release.apk",
-  "apkSha256": "f5d513b3fe750b9eb6470dbf021350d69d2bf9320e8527354211f369d3ca5194",
-  "apkSize": 33499733,
-  "notes": "Separa tus citas médicas («Mi salud») de las citas en las que acompañas a familiares («Acompañar (salud)»). Ambas categorías tienen iconos y colores distintos en Agenda y Calendario. Tus datos se conservan. Actualización opcional.",
+  "versionName": "3.7.81",
+  "versionCode": 174,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.81/Nexo-v3.7.81-release.apk",
+  "apkSha256": "dadb949a1167ff3f7720579f43d958f69f552ccb03eb212a03d539fe5b43046f",
+  "apkSize": 33501389,
+  "notes": "Las fichas de citas muestran fecha, horario, motivo, estado y avisos de un vistazo. Editar está arriba y Maps y Vínculos ocupan menos espacio. También se aplica a citas repetidas. Tus datos se conservan. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
