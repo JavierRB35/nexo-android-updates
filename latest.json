@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.84",
-  "versionCode": 177,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.84/Nexo-v3.7.84-release.apk",
-  "apkSha256": "9c13718e5e348ae93ea28351897f11b9dbab58fdea1376de2dd988caf5192f2f",
-  "apkSize": 33522413,
-  "notes": "Nexo estrena una imagen renovada en toda la aplicación: tres estilos de color más cuidados (Vivo, Mediterráneo y Noche), letras y espacios más claros, pantallas coherentes de principio a fin también en modo oscuro y una barra del sistema que acompaña al estilo elegido. Todo funciona exactamente igual. Actualización opcional.",
+  "versionName": "3.7.85",
+  "versionCode": 178,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.85/Nexo-v3.7.85-release.apk",
+  "apkSha256": "f3138fbfc11e60d5b5eb48ea517a28dc3a1e71a118bc05e914a3980fac62c7fa",
+  "apkSize": 33522525,
+  "notes": "El calendario mensual vuelve a mostrar una cuadrícula visible: cada día es una celda delimitada, así los iconos de categorías se leen siempre dentro de su fecha. Los tres estilos (Vivo, Mediterráneo y Noche) adaptan la rejilla automáticamente. Todo lo demás funciona exactamente igual. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
