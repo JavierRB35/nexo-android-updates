@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.83",
-  "versionCode": 176,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.83/Nexo-v3.7.83-release.apk",
-  "apkSha256": "93440299a650df136fa7d0cc94e6d7ee31b27e3c92c43529c7ecc13ef2395769",
-  "apkSize": 33518189,
-  "notes": "El reproductor de grabaciones incorpora botones para reproducir, pausar y detener. Puedes continuar el audio desde donde lo pausaste y seguir usando las velocidades de reproducción y las transcripciones. Los audios guardados no cambian. Actualización opcional.",
+  "versionName": "3.7.84",
+  "versionCode": 177,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.84/Nexo-v3.7.84-release.apk",
+  "apkSha256": "9c13718e5e348ae93ea28351897f11b9dbab58fdea1376de2dd988caf5192f2f",
+  "apkSize": 33522413,
+  "notes": "Nexo estrena una imagen renovada en toda la aplicación: tres estilos de color más cuidados (Vivo, Mediterráneo y Noche), letras y espacios más claros, pantallas coherentes de principio a fin también en modo oscuro y una barra del sistema que acompaña al estilo elegido. Todo funciona exactamente igual. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
