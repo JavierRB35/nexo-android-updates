@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.85",
-  "versionCode": 178,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.85/Nexo-v3.7.85-release.apk",
-  "apkSha256": "f3138fbfc11e60d5b5eb48ea517a28dc3a1e71a118bc05e914a3980fac62c7fa",
-  "apkSize": 33522525,
-  "notes": "El calendario mensual vuelve a mostrar una cuadrícula visible: cada día es una celda delimitada, así los iconos de categorías se leen siempre dentro de su fecha. Los tres estilos (Vivo, Mediterráneo y Noche) adaptan la rejilla automáticamente. Todo lo demás funciona exactamente igual. Actualización opcional.",
+  "versionName": "3.7.86",
+  "versionCode": 179,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.86/Nexo-v3.7.86-release.apk",
+  "apkSha256": "9c1d327267ec241bbac457c54c253d501ef6ac9c535234f4dad24b92e6b4d09c",
+  "apkSize": 33522461,
+  "notes": "El acceso inferior de Chat ahora muestra el icono de búsqueda, más fácil de reconocer. Al tocarlo, sigue abriendo Chat como antes. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
