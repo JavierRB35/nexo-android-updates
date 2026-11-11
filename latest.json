@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.87",
-  "versionCode": 180,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.87/Nexo-v3.7.87-release.apk",
-  "apkSha256": "3b77dacf61b1d2131071bafc9fd9033fef269572d291d5be8f1dbf3ab2a3c762",
-  "apkSize": 33522093,
-  "notes": "La pestaña inferior ahora se llama Buscar y abre la búsqueda global de Nexo. Busca en los datos guardados y filtra resultados por tipo, con la funcionalidad de búsqueda que ya incluye la aplicación. Actualización opcional.",
+  "versionName": "3.7.88",
+  "versionCode": 181,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.88/Nexo-v3.7.88-release.apk",
+  "apkSha256": "273e9d19fe5beffa0fe3e7faa0111f47ca111376b7c27470ea431ce196ddb6ad",
+  "apkSize": 33522133,
+  "notes": "Los avisos de medicación añaden «Posponer 10 min» junto a «Tomado» y «Omitir». Al posponer, el aviso vuelve a sonar diez minutos después, sin cambiar el horario de las siguientes tomas. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
