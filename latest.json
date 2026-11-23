@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.96",
-  "versionCode": 189,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.96/Nexo-v3.7.96-release.apk",
-  "apkSha256": "27e71750aac6839bcc05ed7a13e8e764ec142a358d858c73bec20599d890541a",
-  "apkSize": 32994088,
-  "notes": "Se recuperan los iconos de las citas y tareas del calendario. El mes completo cabe en pantalla, incluso con seis semanas, y el horario diario muestra todos sus controles en una sola fila. Sin cambios en tus datos, citas, tareas o avisos. Actualización opcional.",
+  "versionName": "3.7.97",
+  "versionCode": 190,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.97/Nexo-v3.7.97-release.apk",
+  "apkSha256": "409ac9d3ab23260d51f59dcbfe0a35143b20102d9c686445cf7e1f1726472f95",
+  "apkSize": 32993864,
+  "notes": "El calendario mensual vuelve a mostrar únicamente los símbolos de categoría, sin horas ni títulos recortados. Pulsa un día para ver sus eventos y el horario completo. Se mantiene la vista mensual ajustada a pantalla y la cabecera diaria compacta. Sin cambios en tus datos ni avisos. Actualización opcional.",
   "critical": false,
   "criticalReason": ""
 }
