@@ -1,12 +1,12 @@
 {
   "schemaVersion": 1,
   "packageName": "com.jruiz.nexo",
-  "versionName": "3.7.92",
-  "versionCode": 185,
-  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.92/Nexo-v3.7.92-release.apk",
-  "apkSha256": "8fc4511da5ce57fc6a9f476628a34624f8a70bf07abbea5259452bf73dd95599",
-  "apkSize": 32982636,
-  "notes": "En Ajustes → Inteligencia artificial se añaden enlaces oficiales para crear claves API de Gemini y Groq. Se abren en el navegador, para copiar la clave y pegarla en Nexo. Se mantienen el cifrado de credenciales y la autorización por consulta.",
+  "versionName": "3.7.93",
+  "versionCode": 186,
+  "apkUrl": "https://github.com/JavierRB35/nexo-android-updates/releases/download/v3.7.93/Nexo-v3.7.93-release.apk",
+  "apkSha256": "338af8bc54f421670cde975e62ac54cba9379b1d84aa30e2ec8b805fbb20d80c",
+  "apkSize": 32983612,
+  "notes": "Captura rápida de citas con IA automática y consentimiento: Gemini primero, Groq si falla y algoritmo local si ambos servicios no responden. Se proponen todos los campos expresados, incluidas direcciones, personas, horarios, repeticiones, avisos y prioridad. Revisión manual antes de guardar.",
   "critical": false,
   "criticalReason": ""
 }
